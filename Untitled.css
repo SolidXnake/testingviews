@@ -6014,4 +6014,4 @@ body > * {
   background-position: center; }
 
 #image-innotica {
-  background-image: "https://innoti.ca/images/s3/blog/headers/35.jpg"; }
+  background-image: url("https://innoti.ca/images/s3/blog/headers/35.jpg"); }
